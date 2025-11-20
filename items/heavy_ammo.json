@@ -56,5 +56,6 @@
     "metal_parts": 3,
     "chemicals": 2
   },
+  "outputQuantity": 10,
   "craftBench": "workbench"
 }

@@ -51,5 +51,6 @@
     "arc_motion_core": 1,
     "crude_explosives": 2
   },
+  "outputQuantity": 6,
   "craftBench": "workbench"
 }
